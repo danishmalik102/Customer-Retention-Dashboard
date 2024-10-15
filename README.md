@@ -28,6 +28,7 @@ Visualized clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information in the resources.
 
 Task:
+
 Colleague, the engagement partner, asks you to do the following tasks:
 
 Define proper KPIs
